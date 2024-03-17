@@ -15,4 +15,4 @@ Para começar a utilizar o WhatsApp Bot Utility, siga os passos abaixo:
 
 1. Clone o repositório:
 ```bash
-[git clone https://github.com/seuusuario/seurepositorio.git](https://github.com/Pedrotyag/whatsapp_bot_utility.git)https://github.com/Pedrotyag/whatsapp_bot_utility.git
+https://github.com/Pedrotyag/whatsapp_bot_utility.git
