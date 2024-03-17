@@ -52,3 +52,13 @@ Após a configuração inicial e importação dos números, você pode iniciar o
 
 ```bash
 npm start
+```
+
+Solução para Problemas com o Chromium
+Se encontrar erros relacionados à falta do Chromium, execute o seguinte comando para instalar o Chromium manualmente:
+
+```bash
+node node_modules/puppeteer/install.js
+```
+
+Isso garantirá que o Puppeteer tenha o Chromium necessário para funcionar corretamente.
