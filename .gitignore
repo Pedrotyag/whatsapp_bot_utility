@@ -1,6 +1,15 @@
-.wwebjs_auth
-.wwebjs_cache
+# Ignorar todos os arquivos .txt na pasta ./data
+/data/*.txt
 
+# Ignorar as pastas de autenticação e cache do whatsapp-web.js
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignorar o arquivo .env
 .env
 
-node_modules
+# Ignorar a pasta node_modules
+node_modules/
+
+#Ignorar test.js
+test.js
